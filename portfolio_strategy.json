@@ -1,0 +1,6 @@
+{
+  "candidate_roles": [],
+  "entry_id": "bright-anchor",
+  "system_prompt": "Portfolio strategy: validator-repair. Generate code that is easy to repair after checker or render failures. Prefer simple allowed primitives, bounded loops, reusable helper functions, and no risky APIs.",
+  "title": "Candidate Validator Repair"
+}
